@@ -1,0 +1,16 @@
+C:\Users\Dylan Johnson\Desktop\template\Disney+\DisneyChecker\bin\Debug\DisneyChecker.exe.config
+C:\Users\Dylan Johnson\Desktop\template\Disney+\DisneyChecker\bin\Debug\DisneyChecker.exe
+C:\Users\Dylan Johnson\Desktop\template\Disney+\DisneyChecker\bin\Debug\DisneyChecker.pdb
+C:\Users\Dylan Johnson\Desktop\template\Disney+\DisneyChecker\bin\Debug\Colorful.Console.dll
+C:\Users\Dylan Johnson\Desktop\template\Disney+\DisneyChecker\bin\Debug\DiscordRPC.dll
+C:\Users\Dylan Johnson\Desktop\template\Disney+\DisneyChecker\bin\Debug\Leaf.xNet.dll
+C:\Users\Dylan Johnson\Desktop\template\Disney+\DisneyChecker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dylan Johnson\Desktop\template\Disney+\DisneyChecker\bin\Debug\DiscordRPC.pdb
+C:\Users\Dylan Johnson\Desktop\template\Disney+\DisneyChecker\bin\Debug\DiscordRPC.xml
+C:\Users\Dylan Johnson\Desktop\template\Disney+\DisneyChecker\bin\Debug\Leaf.xNet.xml
+C:\Users\Dylan Johnson\Desktop\template\Disney+\DisneyChecker\obj\Debug\DisneyChecker.csproj.AssemblyReference.cache
+C:\Users\Dylan Johnson\Desktop\template\Disney+\DisneyChecker\obj\Debug\DisneyChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dylan Johnson\Desktop\template\Disney+\DisneyChecker\obj\Debug\DisneyChecker.csproj.CoreCompileInputs.cache
+C:\Users\Dylan Johnson\Desktop\template\Disney+\DisneyChecker\obj\Debug\DisneyChecker.csproj.CopyComplete
+C:\Users\Dylan Johnson\Desktop\template\Disney+\DisneyChecker\obj\Debug\DisneyChecker.exe
+C:\Users\Dylan Johnson\Desktop\template\Disney+\DisneyChecker\obj\Debug\DisneyChecker.pdb
